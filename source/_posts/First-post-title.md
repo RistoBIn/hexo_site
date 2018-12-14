@@ -1,9 +1,8 @@
-title: 'First post title '
+title: 'First post- My personal Site'
 date: 2018-12-5 10:40:33
 tags:
 ---
 
-> This is the content!
 
 ### Header 3
 
